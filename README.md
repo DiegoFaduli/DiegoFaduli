@@ -34,9 +34,7 @@
 <a href="https://www.linkedin.com/in/diego-faduli-183626284" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<p align="center">
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
-</p>
+![Snake animation](https://github.com/DiegoFaduli/DiegoFaduli/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CF49F7FF&section=footer&reversal=true"/>
