@@ -4,14 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77391&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub" alt="Typing SVG" /></a>
 </p>
 
+🎓 Cursando Engenharia de Software na FIAP.
 
-🎓 Estou cursando em Engenharia de Software na FIAP  
+💻 Apaixonado por programação e desenvolvimento de software.
 
-📚 Atualmente estudando React.js e Python  
+🌟 Sempre em busca de aprender novas tecnologias e frameworks.
 
-💻 Linguagens que estou utilizando: Python, HTML & CSS, JavaScript, React.js  
-
-🌟 Aprendendo constantemente e apaixonado por programação  
+📚 Expandindo constantemente minha expertise por meio de cursos, projetos e estudo autodidata.
 
 ## Skills 🤹‍♂️
 <p align="start">
