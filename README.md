@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F66B92&section=header&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CF49F7FF&section=header&reversal=true"/>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77391&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Seja+bem-vindo+ao+meu+GitHub" alt="Typing SVG" /></a>
 </p>
