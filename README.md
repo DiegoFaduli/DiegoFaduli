@@ -34,6 +34,11 @@
 <a href="https://www.linkedin.com/in/diego-faduli-183626284" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoFaduli/DiegoFaduli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoFaduli/DiegoFaduli/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoFaduli/DiegoFaduli/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CF49F7FF&section=footer&reversal=true"/>
