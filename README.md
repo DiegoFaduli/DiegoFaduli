@@ -10,7 +10,7 @@
 
 🌟 Sempre em busca de aprender novas tecnologias e frameworks.
 
-📚 Expandindo constantemente minha expertise por meio de cursos, projetos e estudo autodidata.
+📚 Expandindo constantemente minha experiência por meio de cursos, projetos e estudo autodidata.
 
 ## Skills 🤹‍♂️
 <p align="start">
